@@ -1,4 +1,6 @@
 # Minecraft-Client
 ## I'll change the name when I have a name idea
-
-Without any commit at this moment.
+- [ ] Start of the project
+- [ ] First commit
+- [ ] Name idea
+- [x] almost starting
