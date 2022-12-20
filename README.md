@@ -3,4 +3,4 @@
 - [ ] Start of the project
 - [ ] First commit
 - [ ] Name idea
-- [x] almost starting
+- [x] Almost starting
