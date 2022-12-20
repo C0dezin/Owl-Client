@@ -1,4 +1,4 @@
 # Minecraft-exploit
-Probably gonna change the name when a name idea come to me.
+An exploit with multi-uses for Minecraft.
 
 Without any commit at this moment.
