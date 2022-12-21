@@ -1,4 +1,4 @@
-![icon](https://github.com/c0dezinnn/Owl-Client/blob/main/client-assets/icon.png)
+![icon](https://github.com/c0dezinnn/Owl-Client/blob/main/client-assets/newicon.png)
 # Owl-Client
 ## An legit minecraft client
 - [ ] Start of the project
