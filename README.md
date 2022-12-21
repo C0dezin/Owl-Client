@@ -1,4 +1,3 @@
-![icon](https://github.com/c0dezinnn/Owl-Client/blob/main/client-assets/icon.png)
 # Owl-Client
 ## An legit minecraft client
 - [ ] Start of the project
@@ -12,3 +11,5 @@ Find an bug? Report [here](https://github.com/c0dezinnn/Owl-Client/issues/new?as
 Have an suggestion? Talk to me [here](https://github.com/c0dezinnn/Owl-Client/issues/new?assignees=&labels=suggestion&template=feature_request.md&title=Short+feature+description)
 
 For direcly contact send me an email: c0deisadev@gmail.com
+
+![icon](https://github.com/c0dezinnn/Owl-Client/blob/main/client-assets/icon.png)
