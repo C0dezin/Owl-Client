@@ -1,5 +1,6 @@
+![icon](https://github.com/c0dezinnn/Owl-Client/blob/main/client-assets/icon.png)
 # Owl-Client
-## I'll change the name when I have a name idea
+## An legit minecraft client
 - [ ] Start of the project
 - [ ] First commit
 - [x] Almost starting
