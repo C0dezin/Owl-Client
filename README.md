@@ -12,4 +12,6 @@ Have an suggestion? Talk to me [here](https://github.com/c0dezinnn/Owl-Client/is
 
 For direcly contact send me an email: c0deisadev@gmail.com
 
+Our [minecraft server list](https://github.com/c0dezinnn/Owl-mcslist)
+
 ![icon](https://github.com/c0dezinnn/Owl-Client/blob/main/client-assets/icon.png)
